@@ -7,7 +7,18 @@ The CLI binary is available to install on macOS, and Linux.
 ## Installation
 
 ### macOS
-The CLI is available via [Homebrew](https://brew.sh/), which is the recommended way. It is also available as a downloadable binary from the [releases](
-https://github.com/aardlabs/terminal-poc/releases/latest) page. 
+The CLI is available via [Homebrew](https://brew.sh/), which is the recommended way. 
 
+```
+ $ brew tap aardlabs/cli
+ $ brew install aardlabs/cli/aard
+```
 
+To upgrade
+
+```shell
+ $ brew upgrade aardlabs/cli/aard
+```
+
+### Linux
+The CLI downloadable zipped binary from the [releases](https://github.com/aardlabs/terminal-poc/releases/latest) page. 
