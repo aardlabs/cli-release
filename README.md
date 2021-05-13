@@ -21,4 +21,4 @@ To upgrade
 ```
 
 ### Linux
-The CLI downloadable zipped binary from the [releases](https://github.com/aardlabs/terminal-poc/releases/latest) page. 
+The CLI downloadable zipped binary from the [releases](https://github.com/aardlabs/cli-release/releases/latest) page. 
