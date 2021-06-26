@@ -9,16 +9,29 @@ The CLI binary is available to install on macOS, and Linux.
 ### macOS
 The CLI is available via [Homebrew](https://brew.sh/), which is the recommended way. 
 
-```
- $ brew tap aardlabs/cli
- $ brew install aardlabs/cli/aard
+```shell
+brew tap aardlabs/cli
+brew install aardlabs/cli/aard
 ```
 
-To upgrade
+### Linux (amd64)
+```shell
+wget -O aardy https://github.com/aardlabs/cli-release/releases/latest/download/aardy-linux-amd64 && chmod 755 aardy
+```
+
+## Upgrade
+
+To upgrade via brew (macOS only)
 
 ```shell
- $ brew upgrade aardlabs/cli/aard
+brew upgrade aardlabs/cli/aard
 ```
 
-### Linux
+To upgrade (all platforms)
+```shell
+aardy update --help
+```
+
+## Other
+
 The CLI downloadable zipped binary from the [releases](https://github.com/aardlabs/cli-release/releases/latest) page. 
