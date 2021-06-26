@@ -1,6 +1,6 @@
-# aard CLI 
+# aardy CLI 
 
-The aard CLI allows you to work seamlessly with the aardy service from the command line
+The aardy CLI allows you to work seamlessly with the aardy service from the command line
 
 The CLI binary is available to install on macOS, and Linux.
 
