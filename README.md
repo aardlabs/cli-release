@@ -24,7 +24,7 @@ wget -O aardy https://github.com/aardlabs/cli-release/releases/latest/download/a
 To upgrade via brew (macOS only)
 
 ```shell
-brew upgrade aardlabs/cli/aard
+brew upgrade aardlabs/cli/aardy
 ```
 
 To upgrade (all platforms)
